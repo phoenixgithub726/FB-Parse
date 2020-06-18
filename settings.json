@@ -1,0 +1,18 @@
+{
+    "VERSION": "0.1.0",
+    "LASTUPDATE": "2020-05-01",
+    "AUTHOR": "dailer.hurtado0321@gmail.com",
+    "LOG": "True",
+    "BACKEND_URL": "http://localhost:8000/",
+    "SECRET_KEY": "!@#$RTYUKL)(I*UYG$%TYU$%&RFYG()*)%#%UPI&*^RGJKHKLU*&$TGGJLU^%^&$YHGH&*$%TFJH(&))^&$^&HGHG",
+    "LOG_PATH": "/logs",
+    "CHROMEDRIVER": "/chromedriver/chromedriver.exe",
+    "INSTAGRAM_USER": "dongfreelancer@gmail.com",
+    "INSTAGRAM_PASSWORD": "Howareyou0321!",
+    "INSTAGRAM": "https://www.instagram.com/",
+    "FACEBOOK": "https://www.facebook.com/",
+    "FACEBOOK_PASSWORD": "phoenixstar19920726",
+    "FACEBOOK_USER": "dailer.hurtado0321@gmail.com"
+
+
+}
